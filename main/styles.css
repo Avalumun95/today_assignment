@@ -1,0 +1,13 @@
+
+.section1_div1 {
+    margin:25px;
+    border:2px solid black;
+    padding: 15px;
+    height:100px;
+    max-width:auto;
+
+}
+nav {
+    float: right;
+    padding-top: 25px;
+}
